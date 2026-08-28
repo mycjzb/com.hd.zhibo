@@ -1,303 +1,303 @@
 {
   "package": "com.hd.zhibo",
-  "version_name": "3.1.4",
-  "version_code": 317,
-  "apk_md5": "0eb9bb8a778df3578456f612a6d0ff3f",
-  "apk_size": 4858992,
+  "version_name": "3.1.6",
+  "version_code": 319,
+  "apk_md5": "66e90505593d059bae669ff0e42922e2",
+  "apk_size": 4846760,
   "chunk_size": 102400,
   "chunk_count": 48,
   "note": "更新了N个BUG，优化播放体验，播放更流畅！",
-  "updated_at": "2026-08-27T20:00:54+08:00",
-  "base_url": "https://raw.githubusercontent.com/mycjzb/com.hd.zhibo/master/chunks/317/",
-  "base_url_backup": "https://cdn.jsdelivr.net/gh/mycjzb/com.hd.zhibo@master/chunks/317/",
+  "updated_at": "2026-08-29T04:08:53+08:00",
+  "base_url": "https://raw.githubusercontent.com/mycjzb/com.hd.zhibo/master/chunks/319/",
+  "base_url_backup": "https://cdn.jsdelivr.net/gh/mycjzb/com.hd.zhibo@master/chunks/319/",
   "chunks": [
     {
       "i": 0,
       "name": "part-0000.png",
-      "md5": "bf2caf606c317c47997d536b1634a3f3",
+      "md5": "f958076df8110d6f9834f05957bffe2c",
       "size": 102400
     },
     {
       "i": 1,
       "name": "part-0001.png",
-      "md5": "cf38046a5e9fada4554787ef0837639a",
+      "md5": "2696c621dd6ff432263a0b5c00c45770",
       "size": 102400
     },
     {
       "i": 2,
       "name": "part-0002.png",
-      "md5": "6a1fa196a56a6a8cb9eefdae52b260aa",
+      "md5": "54dd77520d64dd09c4f56ad80a8e29b4",
       "size": 102400
     },
     {
       "i": 3,
       "name": "part-0003.png",
-      "md5": "5ba8883a0da1fe28f78d07d714dd2bcc",
+      "md5": "891af77e56a62ebca98c4ff02599ec43",
       "size": 102400
     },
     {
       "i": 4,
       "name": "part-0004.png",
-      "md5": "163b8ce13f4d707c3f87fdf5904d91b6",
+      "md5": "5fac023dac665719412f1dedad3016cb",
       "size": 102400
     },
     {
       "i": 5,
       "name": "part-0005.png",
-      "md5": "0f220243e55307a921854122f032533d",
+      "md5": "0e252b83d05538fc8708b845cae1a12f",
       "size": 102400
     },
     {
       "i": 6,
       "name": "part-0006.png",
-      "md5": "65469e4878a515fbd0dffd64926e5a4b",
+      "md5": "59ad42b555040be8f3606333387f3a61",
       "size": 102400
     },
     {
       "i": 7,
       "name": "part-0007.png",
-      "md5": "0af2bd49f2bab0b84c4b92419d198e02",
+      "md5": "552faeb1598538c1bc02f964402dd5da",
       "size": 102400
     },
     {
       "i": 8,
       "name": "part-0008.png",
-      "md5": "b3ec746463de37bb54f2a63307854bf1",
+      "md5": "fff980a2990594af63f5e4ca596fdbbf",
       "size": 102400
     },
     {
       "i": 9,
       "name": "part-0009.png",
-      "md5": "03be34d320f3f980abf4433752897bb9",
+      "md5": "a9722ac3602557310c92ebbd10c137d8",
       "size": 102400
     },
     {
       "i": 10,
       "name": "part-0010.png",
-      "md5": "61d181fcf06607b4f7ad791d6d0c641e",
+      "md5": "cf9c37b0dc81dc02560266e9921425f6",
       "size": 102400
     },
     {
       "i": 11,
       "name": "part-0011.png",
-      "md5": "78e0c91eb263f4ce915a85ccc9f34da9",
+      "md5": "84668b283378168c3c17776064018913",
       "size": 102400
     },
     {
       "i": 12,
       "name": "part-0012.png",
-      "md5": "eda234108af6bd51f8132672522da44b",
+      "md5": "907bfc439ffc0e3ed7f5aca4cc6ab0d3",
       "size": 102400
     },
     {
       "i": 13,
       "name": "part-0013.png",
-      "md5": "65a8b3bdc44f30ae9752486841f4ec75",
+      "md5": "491b8bf3cd4ab017bca4d19fe6e8c9a3",
       "size": 102400
     },
     {
       "i": 14,
       "name": "part-0014.png",
-      "md5": "971896cb46136048bdfbd0e78c57f61b",
+      "md5": "2671cadb8964b1f413bf6ca206fa231d",
       "size": 102400
     },
     {
       "i": 15,
       "name": "part-0015.png",
-      "md5": "0263ce24af179611c05c53b9c9def7c1",
+      "md5": "d77b5a212719f406c2b3102bd68a25aa",
       "size": 102400
     },
     {
       "i": 16,
       "name": "part-0016.png",
-      "md5": "2fd5064eb37e0f8e9353f41cfd0b75a2",
+      "md5": "3882bc1ce2ba5d9ea357c12535218d58",
       "size": 102400
     },
     {
       "i": 17,
       "name": "part-0017.png",
-      "md5": "8d547c6e1774427ac2f5fd3eeeeafd14",
+      "md5": "55d57b8203361b1b7cffbfcfa615b492",
       "size": 102400
     },
     {
       "i": 18,
       "name": "part-0018.png",
-      "md5": "054c1a41ba5d5bdfa16a0e3d8f319605",
+      "md5": "248c0a0492c4f76d204aa351f5d411ae",
       "size": 102400
     },
     {
       "i": 19,
       "name": "part-0019.png",
-      "md5": "35830ca515b7e38917a5e6e39d50b4a5",
+      "md5": "b05021ffc90a24120be044bf182c37da",
       "size": 102400
     },
     {
       "i": 20,
       "name": "part-0020.png",
-      "md5": "3290aff300f138153c5e0fadc545e18f",
+      "md5": "53bed87769ff5747329931c5e2cb343f",
       "size": 102400
     },
     {
       "i": 21,
       "name": "part-0021.png",
-      "md5": "77dcf5023d56c6dd6f3983b49d35f12d",
+      "md5": "6da23f336c9dea0dcc4f3e3d4ba85d37",
       "size": 102400
     },
     {
       "i": 22,
       "name": "part-0022.png",
-      "md5": "77d4381317e097c36369d71e1d23e3bb",
+      "md5": "93ccb1e6a279f72c27aaa55af49adc3c",
       "size": 102400
     },
     {
       "i": 23,
       "name": "part-0023.png",
-      "md5": "3c762b8ae73fcbf45c3f5e664da80a1c",
+      "md5": "c82199c003832f5e6fe5de28ab8c4ef3",
       "size": 102400
     },
     {
       "i": 24,
       "name": "part-0024.png",
-      "md5": "1d889405ce35f757f91957bd4a82b7a4",
+      "md5": "81d786c6784b54f866dcfd65e662c852",
       "size": 102400
     },
     {
       "i": 25,
       "name": "part-0025.png",
-      "md5": "fefe0af19610b52a1121e2d0d5ac18c0",
+      "md5": "6ec61518dcdc8ced83b4a250de17e9f5",
       "size": 102400
     },
     {
       "i": 26,
       "name": "part-0026.png",
-      "md5": "ba51e1c9015566ec606b235a35c40cf7",
+      "md5": "c87b4c1b270338c68a77916230c2d4a4",
       "size": 102400
     },
     {
       "i": 27,
       "name": "part-0027.png",
-      "md5": "ddbef6d38ced0251213cb1db3c1a97f3",
+      "md5": "40f9bdf20981655b26fe3510a003b0af",
       "size": 102400
     },
     {
       "i": 28,
       "name": "part-0028.png",
-      "md5": "b47bef37c2ef1d32ea61bb7a925744b9",
+      "md5": "da10caa4b8fcbfb43354433daf1fe7f7",
       "size": 102400
     },
     {
       "i": 29,
       "name": "part-0029.png",
-      "md5": "251c5a09ecdf445e90588a2ad72e424e",
+      "md5": "daaf803c0b41b0484182492aa796cc79",
       "size": 102400
     },
     {
       "i": 30,
       "name": "part-0030.png",
-      "md5": "5691d63b425cb1c8b9a9afeb1cb340da",
+      "md5": "feb80465578a0940a51fe70e34e34178",
       "size": 102400
     },
     {
       "i": 31,
       "name": "part-0031.png",
-      "md5": "7745e27985f04ace0b2f3a5dcb6a06bb",
+      "md5": "bcb081e8da1610263a8fa661ad84449c",
       "size": 102400
     },
     {
       "i": 32,
       "name": "part-0032.png",
-      "md5": "9f9ee78d74e6a430f01270c3eaa5cbc7",
+      "md5": "a5ad151a1ea2b93653a898531c7ab1bd",
       "size": 102400
     },
     {
       "i": 33,
       "name": "part-0033.png",
-      "md5": "4e3c53028c1af84923c17566855c45b8",
+      "md5": "2a985fd5008f5b52347c6f076dd61c62",
       "size": 102400
     },
     {
       "i": 34,
       "name": "part-0034.png",
-      "md5": "c0158fcd3c96366c3ba1b8c8cfd03d16",
+      "md5": "3843218122d51348585abe83a7b031cb",
       "size": 102400
     },
     {
       "i": 35,
       "name": "part-0035.png",
-      "md5": "3977754581757a77da514985a5e2bebb",
+      "md5": "c902b4eb20a511f40bb79d0a62ba2a78",
       "size": 102400
     },
     {
       "i": 36,
       "name": "part-0036.png",
-      "md5": "01a92bc8b6fcec27d98a978a7db70bb8",
+      "md5": "91db833508d334b2f3eb01c6e7158327",
       "size": 102400
     },
     {
       "i": 37,
       "name": "part-0037.png",
-      "md5": "c21b5089b67890cdbc2a6f8ad8be6196",
+      "md5": "f134ddc866b5fc565e6510eeaf1b4971",
       "size": 102400
     },
     {
       "i": 38,
       "name": "part-0038.png",
-      "md5": "d8da1a8101b913f9da432ce8d7fb8f59",
+      "md5": "9f5043a2304994981836838160a344b5",
       "size": 102400
     },
     {
       "i": 39,
       "name": "part-0039.png",
-      "md5": "ce225fd94c3c41ebfa20cece5f063213",
+      "md5": "45c8e5dd869da5d48f9e27c4b1ff965b",
       "size": 102400
     },
     {
       "i": 40,
       "name": "part-0040.png",
-      "md5": "cb6a86c7e35e355b076edb5f5feb3197",
+      "md5": "e6a3bad0b37149cadfe3c7d8885468b9",
       "size": 102400
     },
     {
       "i": 41,
       "name": "part-0041.png",
-      "md5": "17741946a9015f06b4aa701a057032d8",
+      "md5": "bd6a5ad19970f5a7966b15bfb7046e78",
       "size": 102400
     },
     {
       "i": 42,
       "name": "part-0042.png",
-      "md5": "222567d2a985c23aeac22d87432709ce",
+      "md5": "335a5ada690403e4ae798be9fb84eb96",
       "size": 102400
     },
     {
       "i": 43,
       "name": "part-0043.png",
-      "md5": "18c6a9fa43caf7cdc7b2365aecb22bff",
+      "md5": "e6f8ebd8f2848d428737039f831b7ff7",
       "size": 102400
     },
     {
       "i": 44,
       "name": "part-0044.png",
-      "md5": "c973bd9df339e485632d448aa397bb6e",
+      "md5": "1a693677e0269490a15b6530d633714f",
       "size": 102400
     },
     {
       "i": 45,
       "name": "part-0045.png",
-      "md5": "1c153fcf68f234ad23ea81aaeb6f9fb8",
+      "md5": "fb3a354cd3440e1399b7b15436b3723e",
       "size": 102400
     },
     {
       "i": 46,
       "name": "part-0046.png",
-      "md5": "f5ee07c281c9dabf5b0d8a5baa0f5322",
+      "md5": "b7459c7b5bd49adeca2e39fc4da5d336",
       "size": 102400
     },
     {
       "i": 47,
       "name": "part-0047.png",
-      "md5": "29ba231411bb33fcc6a164b901da6b64",
-      "size": 46192
+      "md5": "ab5d7f3aaa378f9a68ffb8fb400391cb",
+      "size": 33960
     }
   ]
 }
